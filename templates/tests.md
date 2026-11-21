@@ -771,4 +771,3 @@ SELECT count(*) FROM "order";
 
 Ожидается: 50.
 Факт: ___
-
